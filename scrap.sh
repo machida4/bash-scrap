@@ -1,9 +1,9 @@
-# ~/.bashrc
+# Paste below to your .bashrc
 # Replace scrapbox_project_name with your own!
 
+# Open Scrapbox page
 scrapbox_project_name="machida-memo"
 
-# open Scrapbox page
 function scrap {
   local title="$@"
   local scrapbox_url="https://scrapbox.io/$scrapbox_project_name/$title"
@@ -21,4 +21,3 @@ function scrap {
     echo "Your platform is not supported."
   fi
 }
-
