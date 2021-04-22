@@ -4,7 +4,7 @@
 
 お使いのターミナルからブラウザでScrapboxを開くシェルスクリプトです。
 
-WSL, MacOS, Linuxに対応。
+一応WSL, MacOS, Linuxに対応してます。
 
 ## インストール
 
