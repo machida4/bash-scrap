@@ -1,4 +1,4 @@
-# scrap
+# bash-scrap
 
 ## 概要
 
