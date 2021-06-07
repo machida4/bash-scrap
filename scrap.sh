@@ -18,6 +18,6 @@ function scrap {
     # Linux
     xgd-open $scrapbox_url
   else
-    echo "Your platform is not supported."
+    echo "Your platform is not supported ."
   fi
 }
